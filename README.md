@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://fawjulazim.azimemil.xyz/](https://fawjulazim.azimemil.xyz/)
+- 👨‍💻 All of my projects are available at [(https://fawjulazim.azimemil.xyz/)](https://fawjulazim.azimemil.xyz/)
 
 - 💬 Ask me about **web Development**
 
