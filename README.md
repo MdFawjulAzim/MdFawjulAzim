@@ -15,35 +15,21 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td width="60%">
-      <h3>🚀 About Me & Experience</h3>
-      <p>I am a <strong>Software Engineer</strong> specializing in scalable web applications, REST APIs, and AI-integrated platforms.</p>
-      <ul>
-        <li>💼 <strong>Current Role:</strong> Software Engineer at <strong>Omega Solution</strong>.</li>
-        <li>🎓 <strong>Education:</strong> 
-          <ul>
-            <li>B.Sc. in Computer Science & Engineering - <strong>Uttara University</strong> (2026 - Present)</li>
-            <li>Diploma in Computer Science & Technology - <strong>Feni Computer Institute</strong> (2025)</li>
-          </ul>
-        </li>
-        <li>🤖 <strong>AI & Advanced Tech:</strong> Working with LangChain, LangGraph, Google Gemini API, and OpenAI.</li>
-        <li>🛠️ <strong>Key Projects:</strong> 
-          <ul>
-            <li><strong>EDGE28:</strong> Multi-Talented AI Project using Node.js, LangChain, React & RTK.</li>
-            <li><strong>Talentcrane:</strong> Sub-domain architecture with Next.js, NestJS & Zustand.</li>
-            <li><strong>Deverselab Solutions:</strong> Developed scalable platforms like Versemart and Icon Eye Hospital using Laravel & React/RTK.</li>
-          </ul>
-        </li>
-        <li>⚡ <strong>Fun fact:</strong> I am funny 😊 and love a good session of open-world gaming!</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" alt="coding gif" />
-    </td>
-  </tr>
-</table>
+### 🚀 About Me & Experience
+I am a **Software Engineer** specializing in scalable web applications, REST APIs, and AI-integrated platforms.
+
+<img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="350" alt="coding gif" />
+
+- 💼 **Current Role:** Software Engineer at **Omega Solution**.
+- 🎓 **Education:** - B.Sc. in Computer Science & Engineering - **Uttara University** (2026 - Present)
+  - Diploma in Computer Science & Technology - **Feni Computer Institute** (2025)
+- 🤖 **AI & Advanced Tech:** Working with LangChain, LangGraph, Google Gemini API, and OpenAI.
+- 🛠️ **Key Projects:** - **EDGE28:** Multi-Talented AI Project using Node.js, LangChain, React & RTK.
+  - **Talentcrane:** Sub-domain architecture with Next.js, NestJS & Zustand.
+  - **Deverselab Solutions:** Developed scalable platforms like Versemart and Icon Eye Hospital using Laravel & React/RTK.
+- ⚡ **Fun fact:** I am funny 😊 and love a good session of open-world gaming!
+
+<br clear="both"/>
 
 ---
 
