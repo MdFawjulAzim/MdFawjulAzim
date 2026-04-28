@@ -21,7 +21,8 @@ I am a **Software Engineer** specializing in scalable web applications, REST API
 <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="350" alt="coding gif" />
 
 - 💼 **Current Role:** Software Engineer at **Omega Solution**.
-- 🎓 **Education:** - B.Sc. in Computer Science & Engineering - **Uttara University** (2026 - Present)
+- 🎓 **Education:**
+  - B.Sc. in Computer Science & Engineering - **Uttara University** (2026 - Present)
   - Diploma in Computer Science & Technology - **Feni Computer Institute** (2025)
 - 🤖 **AI & Advanced Tech:** Working with LangChain, LangGraph, Google Gemini API, and OpenAI.
 - 🛠️ **Key Projects:** - **EDGE28:** Multi-Talented AI Project using Node.js, LangChain, React & RTK.
