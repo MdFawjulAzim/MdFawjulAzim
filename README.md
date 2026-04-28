@@ -11,6 +11,10 @@
   <a href="https://azimemil.xyz/"><img src="https://img.shields.io/badge/Portfolio-azimemil.xyz-0e75b6?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:mdfawjulazim617@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://twitter.com/mdfawjulazim"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <br>
+  <a href="https://fb.com/mdfawjulazimhassan"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/md.fawjul_azim"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/c/mdfawjulazim"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 ---
