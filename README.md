@@ -61,12 +61,12 @@ I am a **Software Engineer** specializing in scalable web applications, REST API
 <h3 align="center">📊 GitHub Statistics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=mdfawjulazim&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="mdfawjulazim stats" height="150" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=mdfawjulazim&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="top languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdfawjulazim&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="mdfawjulazim stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdfawjulazim&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="top languages" height="150" />
 </div>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mdfawjulazim&theme=radical&hide_border=true&background=0D1117" alt="mdfawjulazim streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdfawjulazim&theme=radical&hide_border=true&background=0D1117" alt="mdfawjulazim streak" />
 </div>
 
 ---
