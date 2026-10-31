@@ -32,7 +32,6 @@ I am a **Software Engineer** specializing in scalable web applications, REST API
 - 🛠️ **Key Projects:**
   - **AgoraFord (GRC):** A premium Governance, Risk, and Compliance (GRC) SaaS platform built with React, Vite, Ant Design, and Redux Toolkit. It streamlines internal audits, manages operational risks, and tracks compliance controls.
   - **EDGE28:** A multi-talented AI assistant project built with Node.js, LangChain, React, and RTK. It automatically handles and replies to user phone calls or text messages with AI.
-  - **Talentcrane:** A premium, modern cloud-based Multi-tenant B2B SaaS platform integrating HRM (Human Resource Management) and LMS (Learning Management System). It streamlines company hierarchies, employee profiles, and permissions, while offering a complete corporate learning system with course tracking and rule-based audience delivery.
   - **Deverselab Solutions:** Developed scalable platforms like Versemart and Icon Eye Hospital using Laravel & React/RTK.
 - ⚡ **Fun fact:** I am funny 😊 and love a good session of open-world gaming!
 
