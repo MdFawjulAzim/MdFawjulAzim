@@ -25,14 +25,13 @@ I am a **Software Engineer** specializing in scalable web applications, REST API
 <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="350" alt="coding gif" />
 
 - 💼 **Current Role:** Software Engineer at **Omega Solution**.
+- 🧠 **Business Logic & Problem Solving:** Strong expertise in breaking down complex business logic, architecting robust workflows, and delivering clean, effective solutions for intricate business requirements.
+- 🛠️ **Project & Domain Experience:**
+  - Successfully contributed to **15+ confidential enterprise & SaaS projects** across diverse domains including **HRM**, **CRM**, **ERP**, **E-commerce**, **LMS / EdTech**, **FinTech**, and **AI-driven Platforms**.
+- 🤖 **AI & Advanced Tech:** Working with LangChain, LangGraph, Google Gemini API, and OpenAI.
 - 🎓 **Education:**
   - B.Sc. in Computer Science & Engineering - **Uttara University** (2026 - Present)
   - Diploma in Computer Science & Technology - **Feni Computer Institute** (2025)
-- 🤖 **AI & Advanced Tech:** Working with LangChain, LangGraph, Google Gemini API, and OpenAI.
-- 🛠️ **Key Projects:**
-  - **AgoraFord (GRC):** A premium Governance, Risk, and Compliance (GRC) SaaS platform built with React, Vite, Ant Design, and Redux Toolkit. It streamlines internal audits, manages operational risks, and tracks compliance controls.
-  - **EDGE28:** A multi-talented AI assistant project built with Node.js, LangChain, React, and RTK. It automatically handles and replies to user phone calls or text messages with AI.
-  - **Deverselab Solutions:** Developed scalable platforms like Versemart and Icon Eye Hospital using Laravel & React/RTK.
 - ⚡ **Fun fact:** I am funny 😊 and love a good session of open-world gaming!
 
 <br clear="both"/>
